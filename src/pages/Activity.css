@@ -1,0 +1,33 @@
+#activity {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
+.chat_detail {
+  padding: 20px;
+  border-radius: 12px;
+  background-color: white;
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  overflow: hidden;
+}
+
+.chat_detail:hover {
+  border-color: #3974cc;
+}
+
+.chat_detail svg {
+  font-size: 50px;
+}
+
+.chat_detail div {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
