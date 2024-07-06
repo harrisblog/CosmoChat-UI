@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Intro - CosmoChat UI
+In today's digital age, seamless interaction remains a cornerstone of user engagement and satisfaction. Facing this need, our mission is to develop an engaging and intuitive frontend chat application — CosmoChat. At the heart of CosmoChat is a dynamic chat interface where users can communicate with CosmoChat, a chatbot powered by the advanced capabilities of OpenAI's GPT-3.5. This application will also feature an Activity Dashboard to monitor and enhance user interactions and achievements.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tech Stack
+HTML, CSS, JS, React, OpenAI API.
 
-## Available Scripts
+# Snippets
+## Main Page
+![image](https://github.com/harrisblog/CosmoChat-UI/assets/56765672/aebe0d88-5d98-4df8-b653-5960116064dc)
+## Chat Page
+![image](https://github.com/harrisblog/CosmoChat-UI/assets/56765672/9775e105-1ed6-4e45-bdc6-6fd45874f2d5)
+## Activity Page
+![image](https://github.com/harrisblog/CosmoChat-UI/assets/56765672/89066ebd-f75f-4ccf-a279-ea27d8e70566)
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Demo Video
+<div>
+    <a href="https://www.loom.com/share/b47faf345b99447c851c9eb1600b865f">
+      <p>Introducing Cosmo Chat: Your AI Chatbot Companion! 🤖 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/b47faf345b99447c851c9eb1600b865f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b47faf345b99447c851c9eb1600b865f-with-play.gif">
+    </a>
+  </div>
